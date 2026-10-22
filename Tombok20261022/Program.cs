@@ -4,6 +4,8 @@
     {
         static void Main(string[] args)
         {
+
+            //teszteltünk
             Console.WriteLine("Hello, World!");
         }
     }
